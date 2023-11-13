@@ -1,38 +1,32 @@
-<p align="center">
-  <img alt="Rocketseat Education" src="https://avatars.githubusercontent.com/u/69590972?s=200&v=4" width="100px" />
-</p>
+# SpaceTraveling
 
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=Rocketseat&message=Education&color=8257e5&labelColor=202024" alt="Rocketseat Project" />
-  <a href="LICENSE"><img  src="https://img.shields.io/static/v1?label=License&message=MIT&color=8257e5&labelColor=202024" alt="License"></a>
-</p>
-
-
-## 💻 Projeto
-
-ignite-template-reactjs-criando-um-projeto-do-zero
-
-## 📝 Licença
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+![alt text](https://github.com/marciocamello/ignite-template-reactjs-criando-um-projeto-do-zero/blob/master/capa.png)
 
 ---
 
 <p align="center">
-  Feito com 💜 by Rocketseat
-</p>
-
-
-<!--START_SECTION:footer-->
-
-<br />
-<br />
-
-<p align="center">
-  <a href="https://discord.gg/rocketseat" target="_blank">
-    <img align="center" src="https://storage.googleapis.com/golden-wind/comunidade/rodape.svg" alt="banner"/>
+  <a href="LICENSE">
+    <img alt="License" src="https://img.shields.io/badge/license-MIT-%23F8952D">
   </a>
+
+  <a href="https://www.linkedin.com/in/marciocamello/">
+    <img alt="My Linkedin" src="https://img.shields.io/badge/marciocamello-%230077B5?style=social&logo=linkedin">
+  </a>
+
+  <br />
+
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/marciocamello/readme_maker">
+
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/marciocamello/readme_maker">
+
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/marciocamello/readme_maker">
 </p>
 
-<!--END_SECTION:footer-->
+---
 
+:rocket: Technologies
+
+- NextJS
+- SASS
+- React Icons
+- PrismaCMS
